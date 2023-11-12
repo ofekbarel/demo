@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>oren come to the clash royal!</h2>
+<h2>demo project (war)</h2>
 </body>
 </html>
