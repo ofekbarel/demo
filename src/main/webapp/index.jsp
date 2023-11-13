@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>demo project (war)</h2>
+<h2>ofekofek (war)</h2>
 </body>
 </html>
