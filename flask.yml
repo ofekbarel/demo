@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: flask
-        image: my-flask-app:latest
+        image: regestery.azurecr.io/ofekbarel/demo
         ports:
         - containerPort: 5000
 ---
